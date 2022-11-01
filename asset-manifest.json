@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Expenses-Project/static/css/main.612d6d54.css",
+    "main.js": "/Expenses-Project/static/js/main.b5d5907e.js",
+    "static/js/787.a56bf26b.chunk.js": "/Expenses-Project/static/js/787.a56bf26b.chunk.js",
+    "static/media/background.jpg": "/Expenses-Project/static/media/background.25fa32cc430d89c63feb.jpg",
+    "index.html": "/Expenses-Project/index.html",
+    "main.612d6d54.css.map": "/Expenses-Project/static/css/main.612d6d54.css.map",
+    "main.b5d5907e.js.map": "/Expenses-Project/static/js/main.b5d5907e.js.map",
+    "787.a56bf26b.chunk.js.map": "/Expenses-Project/static/js/787.a56bf26b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.612d6d54.css",
+    "static/js/main.b5d5907e.js"
+  ]
+}
